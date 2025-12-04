@@ -1,5 +1,3 @@
-// src/components/UserForm.jsx
-
 import { useState, useEffect } from "react";
 
 export default function UserForm({ onSubmit, editingUser }) {

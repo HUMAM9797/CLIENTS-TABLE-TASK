@@ -1,5 +1,3 @@
-// src/App.jsx
-
 import { useState, useEffect } from "react";
 import UsersTable from "./components/UsersTable";
 import UserForm from "./components/UserForm";
